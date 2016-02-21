@@ -1,0 +1,27 @@
+{
+  "name": "vincenzostano",
+  "version": "1.0.0",
+  "description": "Il mio sito",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.11.1",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-sequence": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelirama/vincenzostano.git"
+  },
+  "author": "Marilena Stano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelirama/vincenzostano/issues"
+  },
+  "homepage": "https://github.com/nelirama/vincenzostano#readme"
+}
