@@ -2,11 +2,16 @@ body {
   background-color: #e0dbe8;
 }
 
-h1 {
+h1,
+h2 {
   color: #428b89;
   font-size: 32px;
   text-align: center;
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
   padding: 20px;
+}
+
+h2 {
+  font-size: 24px;
 }
